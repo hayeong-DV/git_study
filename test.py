@@ -6,6 +6,6 @@ print("기능 하나 추가했다고 가정")
 print("기능개발 완료")
 
 
-#release v0.1.1
+#release v0.1.2
 print("왜 안되냐")
 print("for  0.1.2")
