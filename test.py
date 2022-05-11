@@ -4,3 +4,6 @@ print("기능 하나 추가했다고 가정")
 
 #develop
 print("기능개발 완료")
+
+#release v0.1
+print("왜 안되냐")
