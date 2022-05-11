@@ -1,8 +1,2 @@
-print("충돌나랏!")
-print("first 브랜치에서 수정한 test")
-print('first 브랜치 main에서 pull')
-
-
-print("tag 0.2만들어라!!!!!@") 
-print("tag 0.3!!!!@!") 
-
+print("feature브랜치에서 만든파일")
+print("기능 하나 추가했다고 가정")
