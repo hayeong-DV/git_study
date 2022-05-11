@@ -4,5 +4,5 @@ print('first 브랜치 main에서 pull')
 
 
 print("tag 0.2만들어라!!!!!@") 
-print("tag 0.3!!!!!") 
+print("tag 0.3!!!!@!") 
 
