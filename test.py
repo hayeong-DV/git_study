@@ -7,4 +7,4 @@ print("기능개발 완료")
 
 #release v0.1.1
 print("왜 안되냐")
-print("for  0.1.1")
+print("for  0.1.2")
