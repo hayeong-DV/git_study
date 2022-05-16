@@ -6,6 +6,6 @@ print("기능 하나 추가했다고 가정")
 print("기능개발 완료")
 
 
-#release v0.5수정 - 테스트
+#fetch테스트
 print("왜 안되냐")
 print("for  0.5수정!!")
