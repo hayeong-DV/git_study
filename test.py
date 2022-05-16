@@ -10,4 +10,4 @@ print("기능개발 완료")
 print("왜 안되냐")
 #test-3
 
-#git log 테스트 -main에서 작성
+#git log 테스트 -main에서 작성2
